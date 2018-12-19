@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Conversion EuroDollar</string>
+    <string name="euro">en Euro</string>
+    <string name="dollar">en dollar</string>
+    <string name="calc">Calculer</string>
+    <string name="value">Valeur</string>
+    <string name="conversion">Calculer</string>
+    <color name="myColor">#3399CC</color>
+    <string name="title_activity_main">Conversion Monnaie</string>
+
+
+</resources>
